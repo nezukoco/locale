@@ -285,7 +285,6 @@ VK_REQUEST_IS_SENDED: '❌ Код уже отправлен, подождите 
 VK_PLAYER_NOT_ONLINE: '❌ Ошибка, аккаунт не в игре'
 VK_CHANGE_PASSWORD: '&#128110; Вы изменили пароль на: %s'
 VK_DOUBLE_AUTH_CONFIRM: '&#128110; Подтвердите вход в аккаунт'
-VK_NOTIFICATE_QUIT: '&#10134; Вы вышли из игры'
 VK_SET_DOUBLE_AUTH: '✔ Двухэтапная авторизация: включена'
 VK_UNSET_DOUBLE_AUTH: '❌ Двухэтапная авторизация: выключена'
 VK_SET_NOTIFICATION: '✔ Уведомления о присоединении/отсоединении включены'
