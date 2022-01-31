@@ -328,3 +328,4 @@ AUTH_COMMAND_HELP: |-
     /auth unreg [nick] - unregister player
     /auth cp [nick] [new_password] - changepass for player
 
+привет роман костер
