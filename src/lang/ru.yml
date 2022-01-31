@@ -53,10 +53,10 @@ COMMAND_USE_NEKOBUNGEE:
 - ''
 - '     §d/nekobungee cfgreload §f- Перезагрузить все конфиги'
 - '     §d/nekobungee list §f- Список игроков на проекте|сервере' 
-- '     §d/nekobungee wl on/off §f- Включить/Ты ключить белый список'
-- '     §d/nekobungee wl list §f- Ты вести список игроков в белом списке'
+- '     §d/nekobungee wl on/off §f- Включить/Выключить белый список'
+- '     §d/nekobungee wl list §f- Вывести список игроков в белом списке'
 - '     §d/nekobungee wl add/del <игрок> §f- Добавить/удалить игрока из белого списка'
-HUB_TELEPORT: ' §d§lNeko§f§lCloud §8| §fТы были телепортированы на сервер §d%s'
+HUB_TELEPORT: ' §d§lNeko§f§lCloud §8| §fТы был телепортированы на сервер §d%s'
 PING: ' §d§lNeko§f§lCloud §8| §fтвой пинг: §d%s§fмс.'
 PING_OTHER: ' §d§lNeko§f§lCloud §8| §fПинг игрока §d%s: §5%s§fмс.'
 NOT_SERVER: ' §d§lNeko§f§lCloud §8| §fСервер §5%s §fне подключен к прокси'
@@ -77,7 +77,7 @@ COMMAND_USE_IGNORE: ' §d§lЧАТ §8| §fИспользование: §5/ignor
 # POST MESSAGES
 PM_SELF_IGNORE: ' §d§lЧАТ §8| §fТы не можешь игнорировать сам себя!'
 PM_SELF_TO_ME: ' §d§lЧАТ §8| §fТы не можешь написать самому себе!'
-PM_IGNORED_USER: ' §d§lЧАТ §8| §fТеперь Ты игнорируешь игрока §5%s'
+PM_IGNORED_USER: ' §d§lЧАТ §8| §fТеперь ты игнорируешь игрока §5%s'
 PM_ALLOWED_USER: ' §d§lЧАТ §8| §fТы больше не игнорируешь игрока §5%s'
 PM_MISSING_PLAYER: ' §d§lЧАТ §8| §fИспользование: §5/msg <игрок> <сообщение>'
 PM_MISSING_MESSAGE: ' §d§lЧАТ §8| §fИспользование: §5/msg <игрок> <сообщение>'
@@ -93,18 +93,18 @@ PM_SPY: '§5 §lСЛЕЖКА-ЛС §8§l| §7%s §8➾ %s§7: §f%s'
 GAME_DATA_UPDATED_KICK: |-
     §d§lNeko§f§lCloud§r
     §f
-    §fтвойи игроТы е данные были обновлены,
+    §fТвои игровые данные были обновлены,
     §fперезайди на сервер.
 WHITELIST_KICK_MESSAGE: |-
     §d§lNeko§f§lCloud§r
     §f
-    §fНа сервере ведутся §dтехнические рабоТы §f.
+    §fНа сервере ведутся §dтехнические работы§f.
     §fСледи за новостями: §5vk.com/nekocloud
 
 CLICK_TO_SITE: '§d↪ §7Кликни, чтобы перейти на сайт'
 ANNOUNCER_MESSAGE_VK:
 - '§d╔'
-- '§d╠ §fХоти быть перТы м вкурсе §5§lвсех §fновостей §fсервера?'
+- '§d╠ §fХоти быть первым вкурсе §5§lвсех §fновостей §fсервера?'
 - '§d╠ §5§lВступайте §fв наше сообщество §dVK!'
 - '§d╠ §fСсылка: §dvk.com/NekoCloud§r'
 - '§d╚'
@@ -120,7 +120,7 @@ ANNOUNCER_MESSAGE_FREE:
 - '§d╠ §fНапиши команду §d§l/reward §fи играй'
 - '§d╠ §fна нашем сервере!'
 - '§d╚'
-ANNOUNCER_HOVER_FREE: '§d↪ §7Кликни, чтобы Ты полнить команду'
+ANNOUNCER_HOVER_FREE: '§d↪ §7Кликни, чтобы выполнить команду'
 ANNOUNCER_MESSAGE_DONATE_SAVE:
 - '§d╔'
 - '§d╠ §fВсе §dпривилегии §fна §dнашем §fсервере §dсохраняются'
@@ -131,7 +131,7 @@ ANNOUNCER_MESSAGE_BUY_RUB:
 - '§d╔'
 - '§d╠ §fНадоели игроки которых трудно убивать?'
 - '§d╠ §fКупи больше §dрублей §fи §5закупись §fтоповым'
-- '§d╠ §fшмотом в §5/shop§f Тогда Ты их точно §5победишь§f!'
+- '§d╠ §fшмотом в §5/shop§f Тогда ты их точно §5победишь§f!'
 - '§d╠ §fКупить рубли можно на нашем сайте: §dNekoCloud.me§r'
 - '§d╚'
 ANNOUNCER_MESSAGE_DISCORD:
