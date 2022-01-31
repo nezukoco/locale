@@ -191,24 +191,24 @@ AUTH_LOGIN_SUCCESS_WITH_VK: ' §d§lNeko§f§lCloud §8| §fАвторизаци
 AUTH_LOGOUT:
 - '§d§lNeko§f§lCloud§r'
 - ' '
-- '§fВы успешно вышли из аккаунта'
+- '§fВы успешно вышли с аккаунта'
 AUTH_ALREADY_REGISTERED: ' §d§lNeko§f§lCloud §8| §fВы уже §dзарегистрированы'
 AUTH_REGISTER_SUCCESS: ' §d§lNeko§f§lCloud §8| §fВы успешно §dзарегистрировались§f, ваш пароль: §7%s'
 AUTH_USER_IS_BANNED:
 - '§d§lNeko§f§lCloud§r'
 - ' '
-- '§fАккаунт заблокирован через §5ВКонтакте'
+- '§fАккаунт заблокирован через §bВКонтакте'
 AUTH_VK_SEND_CODE: ' §d§lNeko§f§lCloud §8| §fВаш код активации: §d%s'
 AUTH_BIND_FOR_PLAYER: ' §d§lNeko§f§lCloud §8| §fВы успешно привязали свою страницу §5VK §fк аккаунту'
 AUTH_LOGIN_WITH_VK: ' §d§lNeko§f§lCloud §8| §fАвторизация §dуспешно §fпройдена'
 AUTH_DOUBLE_AUTH_DISMISS:
 - '§d§lNeko§f§lCloud§r'
 - ' '
-- '§fВход был отменен через §dVK'
+- '§fВход был отменен через §bВКонтакте'
 AUTH_VK_KICK:
 - '§d§lNeko§f§lCloud§r'
 - ' '
-- '§fАккаунт кикнут через §dVK'
+- '§fАккаунт кикнут через §bВКонтакте'
 AUTH_LICENSE_CONFIRM_SUCCESS: ' §d§lNeko§f§lCloud §8| §fВы успешно подтвердили §dлицензионный §fаккаунт'
 AUTH_LICENSE_FORCELOGIN: ' §d§lNeko§f§lCloud §8| §fВы §dуспешно §fвошли с помощью §5лицензионного аккаунта'
 AUTH_BLOCK_COMMANDS: ' §d§lNeko§f§lCloud §8| §fВы не можете использовать команды, сначала §cвойдите §fв аккаунт'
@@ -219,7 +219,7 @@ AUTH_MIN_NICK_LENGTH:
 AUTH_NOT_ALLOWED_NICK:
 - '§d§lNeko§f§lCloud§r'
 - ' '
-- '§fВаш ник содержит §5запрещенные §fсимволы'
+- '§fВаш ник содержит §dзапрещенные §fсимволы'
 AUTH_NOT_LEGACY_NICK:
 - '§d§lNeko§f§lCloud§r'
 - ' '
